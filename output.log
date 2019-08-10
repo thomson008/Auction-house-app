@@ -1,0 +1,2793 @@
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testRegisterSeller
+INFO: 
+#############################################################
+TESTCASE: testRegisterSeller
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testViewCatalogue
+INFO: 
+#############################################################
+TESTCASE: testViewCatalogue
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp viewCatalogue
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: viewCatalogue
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp viewCatalogue
+FINE: Catalogue: [
+1: Bicycle (UNSOLD), 
+2: Painting (UNSOLD), 
+5: Table (UNSOLD)]
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testOpenAuction
+INFO: 
+#############################################################
+TESTCASE: testOpenAuction
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerC 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerZ: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer3 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerC: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testAddLotUnknownSeller
+INFO: 
+#############################################################
+TESTCASE: testAddLotUnknownSeller
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerA 3
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testCloseAuctionWithSale
+INFO: 
+#############################################################
+TESTCASE: testCloseAuctionWithSale
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerC 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerZ: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer3 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerC: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 1 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 5 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer2: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerZ: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerC 2 300.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer3: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerB 1 100.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerA: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: closeAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Find lot, and retrieve information from said lot.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting addresses of interested buyers of lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting address of the seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if auctioneer is authorized to close it...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Auctioneer is authorized.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving winner's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving seller's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if reserve price was met...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Reserve price met. Executing transactions...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting money from buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: BB A/C (BB-auth) To: AH A/C Amount: 110.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Calculating seller cut...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: AH A/C (AH-auth) To: SY A/C Amount: 85.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if both transactions were successful...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Update catalogue entry to sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerB: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @SellerY: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerA: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerB: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testCloseAuctionPending
+INFO: 
+#############################################################
+TESTCASE: testCloseAuctionPending
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerC 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerZ: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer3 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerC: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 1 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 5 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer2: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerZ: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerC 2 300.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer3: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerB 1 100.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerA: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: closeAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Find lot, and retrieve information from said lot.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting addresses of interested buyers of lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting address of the seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if auctioneer is authorized to close it...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Auctioneer is authorized.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving winner's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving seller's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if reserve price was met...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Reserve price met. Executing transactions...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting money from buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: BB A/C (BB-auth) To: AH A/C Amount: 110.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Calculating seller cut...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: AH A/C (AH-auth) To: SY A/C Amount: 85.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if both transactions were successful...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Update catalogue entry to sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerB: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @SellerY: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerA: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerB: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: closeAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Find lot, and retrieve information from said lot.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting addresses of interested buyers of lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting address of the seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if auctioneer is authorized to close it...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Auctioneer is authorized.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving winner's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving seller's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if reserve price was met...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Update catalogue entry to unsold.
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotUnsold
+FINER: @SellerZ: lot 5 has not sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotUnsold
+FINER: @BuyerA: lot 5 has not sold
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: closeAuction Auctioneer3 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Find lot, and retrieve information from said lot.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting addresses of interested buyers of lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting address of the seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if auctioneer is authorized to close it...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Auctioneer is authorized.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving winner's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving seller's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if reserve price was met...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Reserve price met. Executing transactions...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting money from buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: BC A/C (BC-auth) To: AH A/C Amount: 330.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Calculating seller cut...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: AH A/C (AH-auth) To: SY A/C Amount: 255.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if both transactions were successful...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Update catalogue entry to sold pending payment.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testOpenAuctionUnknownLot
+INFO: 
+#############################################################
+TESTCASE: testOpenAuctionUnknownLot
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerC 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerZ: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer3 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerC: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer2 69
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testNoteInterestUnknownLot
+INFO: 
+#############################################################
+TESTCASE: testNoteInterestUnknownLot
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerC 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 4
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testMakeBid
+INFO: 
+#############################################################
+TESTCASE: testMakeBid
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerC 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerZ: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer3 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerC: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 1 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 5 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer2: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerZ: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerC 2 300.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer3: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerB 1 100.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerA: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerC 1 500.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testRegisterBuyer
+INFO: 
+#############################################################
+TESTCASE: testRegisterBuyer
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testRegisterSellerDuplicateNames
+INFO: 
+#############################################################
+TESTCASE: testRegisterSellerDuplicateNames
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testMakeBidTooLowOrJustEnough
+INFO: 
+#############################################################
+TESTCASE: testMakeBidTooLowOrJustEnough
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerC 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerZ: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer3 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerC: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 1 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 5 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer2: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerZ: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerC 2 300.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer3: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerB 1 100.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerA: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerB 1 100.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerB 1 109.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 1 110.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 110.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 110.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 110.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testRegisterBuyerDuplicateNames
+INFO: 
+#############################################################
+TESTCASE: testRegisterBuyerDuplicateNames
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testAddLot
+INFO: 
+#############################################################
+TESTCASE: testAddLot
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testCatalogueAfterSale
+INFO: 
+#############################################################
+TESTCASE: testCatalogueAfterSale
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerC 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerZ: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer3 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerC: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 1 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 5 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer2: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerZ: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerC 2 300.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer3: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerB 1 100.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerA: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: closeAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Find lot, and retrieve information from said lot.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting addresses of interested buyers of lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting address of the seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if auctioneer is authorized to close it...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Auctioneer is authorized.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving winner's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving seller's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if reserve price was met...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Reserve price met. Executing transactions...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting money from buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: BB A/C (BB-auth) To: AH A/C Amount: 110.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Calculating seller cut...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: AH A/C (AH-auth) To: SY A/C Amount: 85.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if both transactions were successful...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Update catalogue entry to sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerB: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @SellerY: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerA: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerB: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: closeAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Find lot, and retrieve information from said lot.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting addresses of interested buyers of lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting address of the seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if auctioneer is authorized to close it...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Auctioneer is authorized.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving winner's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving seller's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if reserve price was met...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Update catalogue entry to unsold.
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotUnsold
+FINER: @SellerZ: lot 5 has not sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotUnsold
+FINER: @BuyerA: lot 5 has not sold
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: closeAuction Auctioneer3 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Find lot, and retrieve information from said lot.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting addresses of interested buyers of lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting address of the seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if auctioneer is authorized to close it...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Auctioneer is authorized.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving winner's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving seller's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if reserve price was met...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Reserve price met. Executing transactions...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting money from buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: BC A/C (BC-auth) To: AH A/C Amount: 330.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Calculating seller cut...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: AH A/C (AH-auth) To: SY A/C Amount: 255.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if both transactions were successful...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Update catalogue entry to sold pending payment.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp viewCatalogue
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: viewCatalogue
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp viewCatalogue
+FINE: Catalogue: [
+1: Bicycle (SOLD), 
+2: Painting (SOLD_PENDING_PAYMENT), 
+5: Table (UNSOLD)]
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testCloseAuctionNoSale
+INFO: 
+#############################################################
+TESTCASE: testCloseAuctionNoSale
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerC 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 1 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerZ: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerA: Auction of lot 5 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: openAuction Auctioneer3 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Looking for lot in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Lot found, auction in progress.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp openAuction
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @SellerY: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerB: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService auctionOpened
+FINER: @BuyerC: Auction of lot 2 opened
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 1 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 70.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerA 5 70.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer2: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerZ: 70.00 bid on lot 5
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerC 2 300.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer3: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerB: 300.00 bid on lot 2
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: makeBid BuyerB 1 100.00
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the buyer is interested in a lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Checking if the bid is above the minimum increment...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp makeBid
+FINE: Sending messages:
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @Auctioneer1: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @SellerY: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService bidAccepted
+FINER: @BuyerA: 100.00 bid on lot 1
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: closeAuction Auctioneer1 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Find lot, and retrieve information from said lot.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting addresses of interested buyers of lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting address of the seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if auctioneer is authorized to close it...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Auctioneer is authorized.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving winner's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving seller's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if reserve price was met...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Reserve price met. Executing transactions...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting money from buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: BB A/C (BB-auth) To: AH A/C Amount: 110.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Calculating seller cut...
+Nov 25, 2018 12:35:07 PM auctionhouse.MockBankingService transfer
+FINER: From: AH A/C (AH-auth) To: SY A/C Amount: 85.00
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if both transactions were successful...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Update catalogue entry to sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerB: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @SellerY: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerA: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotSold
+FINER: @BuyerB: lot 1 has sold
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: closeAuction Auctioneer2 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Find lot, and retrieve information from said lot.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting addresses of interested buyers of lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Getting address of the seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if auctioneer is authorized to close it...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Auctioneer is authorized.
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving winner's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Retrieving seller's banking details...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Checking if reserve price was met...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp closeAuction
+FINE: Update catalogue entry to unsold.
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotUnsold
+FINER: @SellerZ: lot 5 has not sold
+Nov 25, 2018 12:35:07 PM auctionhouse.MockMessagingService lotUnsold
+FINER: @BuyerA: lot 5 has not sold
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testNoteInterest
+INFO: 
+#############################################################
+TESTCASE: testNoteInterest
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerY
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerSeller SellerZ
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerSeller
+FINE: Registering new seller...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerY 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: addLot SellerZ 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Checking if the seller is registered in the database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp addLot
+FINE: Seller authorised. Adding new lot...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerA
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerB
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: registerBuyer BuyerC
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Checking if the name is already in database...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp registerBuyer
+FINE: Registering new buyer...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerA 5
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 1
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerB 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: noteInterest BuyerC 2
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Checking if lot exists...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp noteInterest
+FINE: Lot found, noting interest...
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseTest testEmptyCatalogue
+INFO: 
+#############################################################
+TESTCASE: emptyLotStore
+#############################################################
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp viewCatalogue
+FINE: 
+-------------------------------------------------------------
+MESSAGE IN: viewCatalogue
+-------------------------------------------------------------
+Nov 25, 2018 12:35:07 PM auctionhouse.AuctionHouseImp viewCatalogue
+FINE: Catalogue: []
+TEST RESULTS
+Number of tests run: 24
+ALL TESTS PASSED
